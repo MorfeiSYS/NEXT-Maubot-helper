@@ -1,0 +1,6 @@
+language: en
+room_languages: {}
+# classic — разделители и маркеры • ↳ · (по умолчанию)
+# compact — заголовок [plugin_id], список через -
+# outline — заголовок === plugin_id ===, строки с > и >>
+help_style: classic

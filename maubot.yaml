@@ -1,8 +1,11 @@
 maubot: 0.6.0
 id: NEXT.helper
-version: 1.0.0
+version: 1.0.6
 license: GPL-3.0
 modules:
   - mauhelp
 main_class: MauHelp
 database: false
+config: true
+extra_files:
+  - base-config.yaml
