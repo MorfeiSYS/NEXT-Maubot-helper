@@ -1,0 +1,5 @@
+/maubot-venv
+.venv/
+__pycache__/
+*.pyc
+build/*.mbp
